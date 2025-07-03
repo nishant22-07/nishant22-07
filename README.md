@@ -1,6 +1,5 @@
 - # 👋 Hi, I’m Nishant (@nishant22-07)
-- 👀 I’m interested in **web development**, **Java programming**, and **exploring databases** .
-- 🌱 I’m currently learning **Advanced Java** and developing skills.
+- 👀 I’m interested in **web development**, **Java programming**, and **exploring databases** ..
 - 💞️ I’m looking to collaborate on **open-source projects** and **innovative web apps**.
 - 📫 How to reach me: You can email me at **nishantkuddale04@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/nishant-kudale).
 - 😄 Pronouns: He
